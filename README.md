@@ -2,7 +2,6 @@
 <h3 align="center">A professional front end developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzaadweb&label=Profile%20views&color=0e75b6&style=flat" alt="farzaadweb" /> </p>
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?resize=800%2C600&ssl=1" 250px/>
 - 🔭 I’m currently working on **hadafo and weath**
 
 - 🌱 I’m currently learning **react and php**
