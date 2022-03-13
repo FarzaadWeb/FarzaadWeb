@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **farzaadweb@gmail.com**
 
-- ⚡ Fun fact **I think, I have some fun fact, for example I don't like Coffee**
+- ⚡ Fun fact **I think, I have some fun fact, for example I don't like Coffee, it's independent title**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
