@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad-Farzanehnya</h1>
 <h3 align="center">A passionate frontend developer from Iran-Tabriz</h3>
 
-<p align="left"> <a href="https://twitter.com/farzaadweb" target="blank"><img src="https://img.shields.io/twitter/follow/farzaadweb?logo=twitter&style=for-the-badge" alt="farzaadweb" /></a> </p>
-
 - 🔭 I’m currently working on **SeaLead & wefreight**
 
 - 🌱 I’m currently learning **Rust**
@@ -30,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzaadweb&show_icons=true&locale=en&layout=compact" alt="farzaadweb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzaadweb&" alt="farzaadweb" /></p>
