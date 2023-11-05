@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Farzad Farzanehnya</h1>
 <h4 align="jsutify">A front-end developer with a passion for crafting beautiful and engaging user interfaces. With several years of experience in the industry, I specialize in building responsive and dynamic websites using modern technologies such as HTML, CSS, JavaScript, and React. I'm always eager to learn and improve my skills, and I love collaborating with others to create amazing projects. When I'm not coding, you can find me exploring the outdoors or playing video games. Let's connect and create something awesome together!</h3>
 <br />
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzaadweb&label=Profile%20views&color=0e75b6&style=flat" alt="farzaadweb" /> </p>
 
