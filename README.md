@@ -1,6 +1,9 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<br />
 <h1 align="center">Hi 👋, I'm Farzad Farzanehnya</h1>
-<h3 align="center">A front-end developer with a passion for crafting beautiful and engaging user interfaces. With several years of experience in the industry, I specialize in building responsive and dynamic websites using modern technologies such as HTML, CSS, JavaScript, and React. I'm always eager to learn and improve my skills, and I love collaborating with others to create amazing projects. When I'm not coding, you can find me exploring the outdoors or playing video games. Let's connect and create something awesome together!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<h4 align="jsutify">A front-end developer with a passion for crafting beautiful and engaging user interfaces. With several years of experience in the industry, I specialize in building responsive and dynamic websites using modern technologies such as HTML, CSS, JavaScript, and React. I'm always eager to learn and improve my skills, and I love collaborating with others to create amazing projects. When I'm not coding, you can find me exploring the outdoors or playing video games. Let's connect and create something awesome together!</h3>
+<br />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzaadweb&label=Profile%20views&color=0e75b6&style=flat" alt="farzaadweb" /> </p>
 
